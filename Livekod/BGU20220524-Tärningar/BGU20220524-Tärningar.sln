@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BGU20220524-Tärningar", "BGU20220524-Tärningar\BGU20220524-Tärningar.csproj", "{A9E7DCFE-17BF-4FF4-8079-860050CEB0C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tärningskastare", "Tärningskastare\Tärningskastare.csproj", "{F60710A4-D2F7-46AA-A1D5-37D1FB3CCE61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9E7DCFE-17BF-4FF4-8079-860050CEB0C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E7DCFE-17BF-4FF4-8079-860050CEB0C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E7DCFE-17BF-4FF4-8079-860050CEB0C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E7DCFE-17BF-4FF4-8079-860050CEB0C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F60710A4-D2F7-46AA-A1D5-37D1FB3CCE61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60710A4-D2F7-46AA-A1D5-37D1FB3CCE61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60710A4-D2F7-46AA-A1D5-37D1FB3CCE61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60710A4-D2F7-46AA-A1D5-37D1FB3CCE61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18C9B7DF-8781-442F-939B-ED3170C1B0E5}
+	EndGlobalSection
+EndGlobal
