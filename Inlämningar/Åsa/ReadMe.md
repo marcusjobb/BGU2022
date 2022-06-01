@@ -17,7 +17,8 @@ string svar;
             default: svar = "Rätt på försök nummer " + counter; break;
     }
     Console.WriteLine(svar);
-}```
+}
+```
 
 Väldigt snyggt skriven kod, bra namngivning på dina metoder och variabler. Jättebra att du även hade med [[Pseudokod]]
 
