@@ -20,6 +20,6 @@ string svar;
 }
 ```
 
-Väldigt snyggt skriven kod, bra namngivning på dina metoder och variabler. Jättebra att du även hade med [[Pseudokod]]
+Väldigt snyggt skriven kod, bra namngivning på dina metoder och variabler. Jättebra att du även hade med [Pseudokod](gissningslek/Pseudokod.md)
 
 
