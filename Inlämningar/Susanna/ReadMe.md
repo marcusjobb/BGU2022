@@ -17,3 +17,4 @@ Exempelvis
 
 Du skriver bra kod, genomtänkt och väl strukturerad. Det är en väldigt bra egenskap som programmerare, då du genererar bra kod som vem som helst kan förstå.
 
+Bra att du hade med [Pseudokod](Pseudokod.md)
