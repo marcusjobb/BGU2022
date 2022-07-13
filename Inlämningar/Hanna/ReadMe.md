@@ -1,4 +1,4 @@
-﻿# Feedback
+# Feedback
 
 Kul och spjuveraktig spel!
 

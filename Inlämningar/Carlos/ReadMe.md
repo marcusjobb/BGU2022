@@ -1,4 +1,4 @@
-﻿#  Feedback
+#  Feedback
 
 Aaw ett romantiskt och trollskt spel. Vem skulle inte vilja träffa en älva i skogen och man får gifta sig med henne om man gissar hennes ålder.  :heart: :fairy_woman: 
 

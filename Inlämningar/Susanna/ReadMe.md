@@ -1,4 +1,4 @@
-﻿# Feedback
+# Feedback
 Mysigt litet spel. Snygg intro!
 ```cs 
 Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~");

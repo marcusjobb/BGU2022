@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hemtenta", "Hemtenta\Hemtenta.csproj", "{BF356D75-DB4A-4713-8450-9D0ED500FB95}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HemTenta 2", "HemTenta 2\HemTenta 2.csproj", "{08BFAA11-CDAA-468D-8F0E-7943B476E81A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BF356D75-DB4A-4713-8450-9D0ED500FB95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BF356D75-DB4A-4713-8450-9D0ED500FB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BF356D75-DB4A-4713-8450-9D0ED500FB95}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BF356D75-DB4A-4713-8450-9D0ED500FB95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08BFAA11-CDAA-468D-8F0E-7943B476E81A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08BFAA11-CDAA-468D-8F0E-7943B476E81A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08BFAA11-CDAA-468D-8F0E-7943B476E81A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08BFAA11-CDAA-468D-8F0E-7943B476E81A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C44BC221-74A0-42E2-8D1B-D8266DD28699}
+		SolutionGuid = {F24F3DBB-2CE3-44DE-95F2-BECF1B34F6CC}
 	EndGlobalSection
 EndGlobal
