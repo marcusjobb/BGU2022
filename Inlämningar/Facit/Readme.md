@@ -15,6 +15,7 @@ En lite mer komplex mer fler metoder. Dessa i syfte att göra koden mer lätthan
 
 ## En liten hjälpare
 Som bonus får du här en version som hjälper till att gissa
+
 [En liten hjälpare.](./MedHjälpare/)
  
 

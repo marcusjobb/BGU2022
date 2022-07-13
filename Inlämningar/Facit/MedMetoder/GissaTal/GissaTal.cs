@@ -128,6 +128,7 @@ public class GissaTal
     /// <returns>Talet som användaren angav</returns>
     private static int GetGuess()
     {
+        Console.WriteLine("Ange ett tal mellan 1 - 100");
         int guess = 0;
         while(guess <= 0)
         {
@@ -155,7 +156,6 @@ public class GissaTal
     {
         int ufo = (10 - guesses) * 100;
         Console.WriteLine($"UFOt befinner sig på {ufo} m över staden");
-        Console.WriteLine("Ange ett tal mellan 1 - 100");
     }
 
     /// <summary>
