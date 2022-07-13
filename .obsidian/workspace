@@ -7,12 +7,8 @@
         "id": "7a5ddc1e10244b38",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Inlämningar/Facit/MedMetoder/readme.md.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inlämningar/Facit/MedMetoder/readme.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +84,8 @@
   },
   "active": "7a5ddc1e10244b38",
   "lastOpenFiles": [
-    "Inlämningar/Facit/Readme.md",
     "Inlämningar/Facit/MedMetoder/readme.md.md",
+    "Inlämningar/Facit/Readme.md",
     "Inlämningar/Facit/MedHjälpare/readme.md.md",
     "Inlämningar/Facit/EnkelVersion/readme.md.md",
     "3.md",
