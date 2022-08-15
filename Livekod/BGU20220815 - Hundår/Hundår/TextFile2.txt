@@ -1,0 +1,11 @@
+Pseudokod:
+start:
+
+funktion: Gå till butiken för att handla mjölk
+
+Mjölk = 1
+Om Ägg finns 
+    Mjölk = 6
+Handla mjölk
+Gå hem
+

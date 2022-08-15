@@ -1,0 +1,13 @@
+
+Start:
+  |
+funktion: Gå till butiken
+  |
+ Mjölk = 1
+  |
+ if (ägg == true)  ----> Mjölk = 6
+  |
+ Handla
+  | 
+ Gå hem
+
