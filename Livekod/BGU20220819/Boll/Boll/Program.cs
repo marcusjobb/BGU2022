@@ -45,6 +45,14 @@
             Console.CursorTop = y;
             Console.WriteLine(" ");
         }
+
+        // Draw a ball
+        public void Ball()
+        {
+
+        }
+
+
         public void MoveBall()
         {
             if (x > 100) dx = -1;
@@ -57,3 +65,4 @@
         }
     }
 }
+
